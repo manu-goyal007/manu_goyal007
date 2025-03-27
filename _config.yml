@@ -1,1 +1,15 @@
 
+title: Manu Goyal  # You can add your name here
+
+logo: 1.png # Use a relative path to logo image 
+
+description: Data Scientist
+
+show_downloads: true # Fix spelling
+
+theme: jekyll-theme-minimal 
+
+plugins:
+  - jekyll-seo-tag # Add SEO plugin
+
+email: goyalm685@gmail.com # Allow visitors to contact you
