@@ -85,7 +85,7 @@ My experience also includes applying analytics and machine learning algorithms f
 ## Contact Information
 - **Mobile:** +91 8950161660
 - **Email:** [goyalm685@gmail.com](mailto:goyalm685@gmail.com)
-- **Github:** [Manu Goyal](https://github.com/vikashmec)
+- **Github:** [Manu Goyal](https://github.com/manu-goyal007)
 - **LinkedIn:** [https://www.linkedin.com/in/manu-goyal007/](https://www.linkedin.com/in/manu-goyal007/)
 
 
