@@ -3,6 +3,7 @@
 ## Technical Skills
 - Programming languages: Python
 - Libraries and Frameworks: Numpy, Pandas, Scikit-​learn, darts,
+- Visualisation tools:Qlik Sense, Power BI
 - Machine learning: Algorithms, Hypotheses ​testing, K-​means ​clustering, Linear ​regression, Logistic ​regression, Statistics, Time series forecasting
 - Cloud: AWS Sagemaker, Azure databricks
 - Databases: SQL
